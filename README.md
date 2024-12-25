@@ -16,7 +16,8 @@ _____
 ![Vscode](img_readme/photo_5379849810355544292_y.jpg)
 ____
 ### 2. Установить [Flutter](https://docs.flutter.dev/get-started/install/windows/mobile) на официальном сайте 
-![Flutter](
+)))) Пж ![photo_2024-09-02_17-25-42](https://github.com/user-attachments/assets/cf14d232-9fa5-4ec8-b251-d4cabbb4459d)
+
  ____
 ### 3. Создать проект и запустить его в веб-версии
 ![pic](img
